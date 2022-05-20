@@ -1,11 +1,11 @@
 <h2>Jogo Tetris</h2>
 
-Instruções:<br/>
+<h3>Instruções:</h3>
 
 Executar:<br/>
  clicar 2 vezes no arquivo index.html<br/>
 
-Controles<br/>
+Controles:<br/>
  🠔 : Esquerda<br/>
  🠗  : Baixo<br/>
  🠖 : Direita<br/>
