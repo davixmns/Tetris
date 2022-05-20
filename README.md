@@ -1,4 +1,4 @@
-<h6>Jogo Tetris<h6/>
+<h2>Jogo Tetris</h2>
 
 Instruções:<br/>
 
