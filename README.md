@@ -1,5 +1,4 @@
-Projeto do jogo "Tetris" feito por: Davi Ximenes e Renato Severo
-Fortaleza - CE
+<h6>Jogo Tetris<h6/>
 
 Instruções:<br/>
 
