@@ -8,3 +8,7 @@ Instruções:
  🠕  : Gira para a direita
  Z  : Gira para a esquerda
  space : Queda forte
+ 
+ Para executar somente clicar 2 vezes no arquivo index.html
+
+
